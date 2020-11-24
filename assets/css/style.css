@@ -50,7 +50,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .intro__title {
-    color: #FF00FF;
+    color: #fff;
     font-size: 100px;
     font-weight: 700;
     text-transform: uppercase;
@@ -72,7 +72,7 @@ h1, h2, h3, h4, h5, h6 {
 
     font-family: 'Montserrat', sans-serif;
     font-size: 72px;
-    color: #FF00FF;
+    color: #fff;
 }
 
 
