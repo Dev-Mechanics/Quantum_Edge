@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Kaushan Script', cursive;
 
     font-size: 15px;
     line-height: 1.6;
@@ -97,7 +97,7 @@ h1, h2, h3, h4, h5, h6 {
 .header__logo {
     font-size: 30px;
     font-weight: 700;
-    color: #ff00ff;
+    color: #fff;
 }
 
 
